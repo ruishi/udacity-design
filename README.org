@@ -1,0 +1,5 @@
+* Overview
+This repository will contain code that I write for Udacity CS 212: Design of Computer Programs. Small code snippets written for quizzes will usually not be included.
+
+* Extras
+For fun I started writing the poker game functions in Haskell and I will most likely to continue to write Haskell versions of code presented in the class.
